@@ -1,0 +1,6 @@
+1. Taking data from external sources, transforming it into useful format and load into a data lake or warehouse.
+2. Managing data warehouse
+3. Managing data pipeline
+4. Serve data to end-users (via dashboard, API, data dump)
+5. Handling data strategy
+6. Deploy ML model to production
